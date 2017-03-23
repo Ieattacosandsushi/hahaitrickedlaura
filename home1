@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Life Christian College</title>
+</head>
+<style>
+
+	h1 {color: darkred; font-family: Zapfino;}	
+	.box{background-color: gold; position: absolute; z-index: 1; /*put .box below h1 and h2 */ height: 60%; width: 100%; left: 0%; top: 0%}
+	Body {background-color: antiquewhite; text-align: center}
+	h2  {font-family: "Charlemagne Std Bold", Trattatello, Zapfino; color: darkgoldenrod; text-align: center; }
+	
+	p {color: black; text-align: justify; font: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"; font-size: 1}
+
+	</style>
+<body>
+	<div class="box red"; z-index: 1></div>
+
+	<header> </header>
+<h1> Life Christian College </h1>
+	<h2> <a href = "April Fools.html"> Click here to learn more about Life Christian College</a> </h2>
+	<p>Copyright (c) 2016</p>
+</body>
+</html>
